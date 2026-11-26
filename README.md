@@ -1,3 +1,2 @@
 # study-lab
-programming exercises via learncpp
-
+programming exercises
